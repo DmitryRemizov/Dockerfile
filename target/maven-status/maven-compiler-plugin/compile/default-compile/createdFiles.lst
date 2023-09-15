@@ -1,0 +1,7 @@
+ru/netology/netologyspringboottask4/controller/AuthorizationController.class
+ru/netology/netologyspringboottask4/exception/InvalidCredentials.class
+ru/netology/netologyspringboottask4/service/AuthorizationService.class
+ru/netology/netologyspringboottask4/NetologySpringBootTask4Application.class
+ru/netology/netologyspringboottask4/exception/UnauthorizedUser.class
+ru/netology/netologyspringboottask4/repository/UserRepository.class
+ru/netology/netologyspringboottask4/model/Authorities.class
